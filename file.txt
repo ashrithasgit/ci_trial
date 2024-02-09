@@ -6,9 +6,15 @@ hjklklkk
 jdhjkdlldlsse
 =======
 
+<<<<<<< HEAD
 djdjdkjddkdd
 skdkjjdkdk 
 qqqqqThis is a fileiusuisksks
+=======
+djdjdkjddkddk 
+qqqqqThi
+skskkjssjss is a fileiusuisksks
+>>>>>>> three
 i modified this file
 >>>>>>> two
 Hey
