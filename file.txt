@@ -1,5 +1,6 @@
  This is a file
-i modified this file
+i modified this fil
+shsjkskskse
 Hey
 more modifications
 <<<<<<< HEAD
