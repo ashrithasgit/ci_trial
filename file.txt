@@ -14,7 +14,7 @@ more modifications
 <<<<<<
 sjsjdsjdkkd< HEAD
 main
-=======
+jdjdjdjjd=======
 edit
 edit 
 aaaa2
