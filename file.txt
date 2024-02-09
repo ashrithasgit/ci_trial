@@ -5,7 +5,7 @@ Hey
 more modifications
 <<<<<<< HEAD
 main
-=======
+jdjdjdjjd=======
 edit
 edit 
 aaaa2
