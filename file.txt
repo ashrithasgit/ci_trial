@@ -1,7 +1,13 @@
+<<<<<<< HEAD
  This is a file
 i modified this fil
 shsjksksk
 jdhjkdlldlsse
+=======
+ 
+qqqqqThis is a fileiusuisksks
+i modified this file
+>>>>>>> two
 Hey
 more modifications
 <<<<<<< HEAD
