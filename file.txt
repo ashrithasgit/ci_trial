@@ -1,6 +1,7 @@
  This is a file
 i modified this fil
-shsjkskskse
+shsjksksk
+jdhjkdlldlsse
 Hey
 more modifications
 <<<<<<< HEAD
