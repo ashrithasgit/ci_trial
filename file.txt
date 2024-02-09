@@ -2,7 +2,8 @@
 i modified this file
 Hey
 more modifications
-<<<<<<< HEAD
+<<<<<<
+sjsjdsjdkkd< HEAD
 main
 =======
 edit
